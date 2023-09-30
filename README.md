@@ -1,4 +1,4 @@
-## Personal portfolio website 
+## Personal portafolio website
 
 # Made using HTML, CSS, JS and bootstrap
 
